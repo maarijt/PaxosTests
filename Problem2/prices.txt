@@ -1,0 +1,6 @@
+Anday, 500
+Aaloo, 700
+Qeema, 1000
+Kaddu, 1400
+Doodh, 2000
+Roti, 6000
