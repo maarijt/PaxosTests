@@ -2,7 +2,7 @@
 
 Problem 1:
 
-The website is live at hashnslash.x10host.com. 
+The website is live at *hashnslash.x10host.com*. 
 Click the button to go to "messages.php". Here, enter your message and press submit to save
 and see the hash. Enter a hash in the second textbox to check if a message with that hash exists. I implemented the server side logic in
 php and stored hashes and messages in a database. Given more time, I couldve definately made the website...more aesthetically pleasing.
