@@ -1,6 +1,6 @@
-Anday, 500
-Aaloo, 700
-Qeema, 1000
-Kaddu, 1400
-Doodh, 2000
-Roti, 6000
+Dolls, 500
+Mustang, 700
+The hobbit, 1000
+Mug, 1400
+Chair, 2000
+Air Conditioner, 6000

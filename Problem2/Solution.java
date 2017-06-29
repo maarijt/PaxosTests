@@ -3,8 +3,8 @@ import java.io.*;
 import java.lang.*;
 
 public class Solution {
-	private static LinkedList<String> names = new LinkedList<String>();
-	private static LinkedList<Integer> prices = new LinkedList<Integer>();
+	private static ArrayList<String> names = new ArrayList<String>();
+	private static ArrayList<Integer> prices = new ArrayList<Integer>();
 	private static String[] n = new String[2];
 	private static int[] p = new int[2];
 
@@ -67,6 +67,11 @@ public class Solution {
 	}
 
 	public static void main(String[] args) {
+		if (args.length != 2) {
+			System.out.println("Usage: java Solution [file name] [total]");
+			return;
+		}
+
 		dataSetup(args[0]);
 		int total = Integer.parseInt(args[1]);
 		boolean found = getPair(total);
